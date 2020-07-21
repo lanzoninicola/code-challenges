@@ -1,2 +1,2 @@
 # code-challenges
-This is the container of solutions about code challenges.
+A collection of my solutions to different coding challenges
