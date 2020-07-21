@@ -1,2 +1,2 @@
-# code-challenges
-A collection of my solutions to different coding challenges
+# Coding challenges collection
+A collection of my solutions to different coding challenges.
